@@ -1,8 +1,4 @@
 
-Certainly! Here's your formatted text with numeric and bullet points for highlighting in the GitHub README:
-
-GREIT Event Website
-Welcome to the Gokaraju Rangaraju Institute of Engineering and Technology (GREIT) Event Website repository. This project is designed to help administrators, faculty, and students manage and participate in events organized by various clubs at GREIT.
 
 Project Overview
 The GREIT Event Website is a comprehensive platform that allows administrators to upload and manage new events seamlessly. It includes separate login pages for administrators to add and update events, ensuring a secure and organized event management system. Students and faculty can use the website to stay informed about upcoming events, receive notifications, and make payments through integrated gateways.
