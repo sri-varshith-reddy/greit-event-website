@@ -1,4 +1,4 @@
-#GREIT Event Website
+######GREIT Event Website
 Welcome to the Gokaraju Rangaraju Institute of Engineering and Technology (GREIT) Event Website repository. This project is designed to help administrators, faculty, and students manage and participate in events organized by various clubs at GREIT.
 
 Project Overview
